@@ -1,0 +1,35 @@
+{
+  "name": "YogurtProject",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": "Gurwinder Singh",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.6.1",
+    "@mui/x-data-grid-pro": "^5.17.23",
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.3",
+    "moment": "^2.29.4",
+    "netlify-cli": "^2.12.0",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "^18.2.0",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.14",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "vite": "^3.0.7"
+  }
+}
